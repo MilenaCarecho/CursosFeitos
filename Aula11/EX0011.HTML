@@ -8,7 +8,16 @@
 <body>
     <h2>Você é gringo?</h2>
     Insira o país em que você nasceu <input type="text" name="país" id="país">
-    <input type="button" value="verificar" onclick="país()">
+    <input type="button" value="verificar" onclick="pais0()">
+    <div id="res"></div>
+    
+    <script>
+        function pais0(){
+            var pais01 = window.document.querySelector('input#país')
+            var res = window.document.querySelector('div#res')
+            res.innerHTML = `Seu país de origem é ${pais01}`
+        }
+    </script>
     
 </body>
 </html>
