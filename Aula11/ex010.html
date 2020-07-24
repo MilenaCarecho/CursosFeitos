@@ -18,8 +18,8 @@
             var res = window.document.querySelector('div#res')
             var vel = Number(txtv.value)
             res.innerHTML = `Sua velocidade atual é ${vel}Km/h`
-            if (vel > 60){
-                res.innerHTML += <p>Você esta multado por excesso de velocidade</p>
+            if (vel > 60){  
+                res.innerHTML += `<p>Você esta multado por excesso de velocidade</p>`
             }
             res.innerHTML += `<p>dirija sempre com cinto de segurança!</p>`
         }
