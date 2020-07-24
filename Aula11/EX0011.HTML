@@ -17,6 +17,11 @@
             var res = window.document.querySelector('div#res')
             res.innerHTML = `Seu país de origem é ${pais01}`
         }
+        if(pais01 == 'Brasil' || 'Brazil'){
+            res.innerHTML += 'Você é brasileiro'
+        } else {
+            res.innerHTML += 'Você é gringo'
+        }
     </script>
     
 </body>
