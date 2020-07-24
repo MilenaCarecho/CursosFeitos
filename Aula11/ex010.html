@@ -14,8 +14,8 @@
     </div>
     <script>
         function calcular() {
-            var txtv = window.document.querySelector('input#txtvel1').value
-            var res = window.document.querySelector('div#res')
+            var txtv = window.document.querySelector('input#txtvel1')
+            var res = window.document.querySelector('div#res').value
             var vel = Number(txtv.value)
             res.innerHTML = `Sua velocidade atual é ${vel}Km/h`
             if (vel > 60){  
