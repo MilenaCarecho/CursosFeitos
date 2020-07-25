@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Você é gringo?</title>
+</head>
+<body>
+    <h2>Você é gringo?</h2>
+    Insira o país em que você nasceu <input type="text" name="país" id="país">
+    <input type="button" value="verificar" onclick="pais()">
+    <div id="res"></div>
+    
+    <script>
+        function pais(){
+            var pais01 = window.document.querySelector('input#país').value
+            var res = window.document.querySelector('div#res')
+            res.innerHTML = `Seu país de origem é ${pais01}<br>`
+        if(pais01 == 'Brasil'|| 'brasil'){
+            res.innerHTML += 'Você é brasileiro'
+        } else {
+            res.innerHTML += 'Você é gringo'
+        }
+    }
+    </script>
+    
+</body>
+</html>
