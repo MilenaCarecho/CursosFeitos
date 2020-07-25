@@ -2,7 +2,7 @@
 
 Fala, pessoal ✌️
 
-Esse repositorio é onde eu vou 'jogar' os codigos dos cursos de Javascript que eu ando fazendo 
+Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos de Javascript que eu ando fazendo 
 
 
 #### Gratuitos 
