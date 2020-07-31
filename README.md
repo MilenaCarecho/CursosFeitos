@@ -14,3 +14,5 @@ Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos de J
 - [ ] [Exercism](https://exercism.io/) - [Meus exercicios](https://github.com/MilenaCarecho/treinandoJavascript/tree/master/EXERCISM) 
 
 #### Pagos
+
+- [ ] [Origamid](https://www.origamid.com/)- [Meus exercicios]() 
