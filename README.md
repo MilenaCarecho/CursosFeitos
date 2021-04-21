@@ -8,11 +8,8 @@ Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos que 
 #### Gratuitos 
 
 - [x] [Curso em video](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - [Meus exercicios](https://github.com/MilenaCarecho/treinandoJavascript/tree/master/CursoEmVideo) 
-
 - [ ] [Rocketseat starter](https://rocketseat.com.br/starter)
-
 - [ ] [Exercism](https://exercism.io/) - [Meus exercicios](https://github.com/MilenaCarecho/treinandoJavascript/tree/master/EXERCISM) 
-
 - [ ] [30 Day Vanilla](https://javascript30.com/)
 
 #### Pagos
