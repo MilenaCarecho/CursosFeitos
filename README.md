@@ -1,8 +1,8 @@
-## Treinando Javascript 
+## Treinando Programação
 
 Fala, pessoal ✌️
 
-Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos de Javascript que eu ando fazendo 
+Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos que eu ando fazendo 
 
 
 #### Gratuitos 
@@ -17,4 +17,5 @@ Esse repositorio é onde eu vou 'jogar' os codigos de exercicios dos cursos de J
 
 #### Pagos
 
-- [ ] [Origamid](https://www.origamid.com/)- [Meus exercicios]() 
+- [ ] [Origamid - Web design completo](https://www.origamid.com/)- [Bikcraft](https://github.com/MilenaCarecho/Bikcraft) 
+- [ ] [COD3R - PHP 7 COMPLETO](https://www.udemy.com/course/php-7-completo/)- [Meus exercicios](https://github.com/MilenaCarecho/PHP7-COD3R) 
